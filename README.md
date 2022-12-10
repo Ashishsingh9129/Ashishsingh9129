@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ashishsingh9129
-- 👀 I’m interested in app developing
-- 🌱 I’m currently pursuing B.TECH Computer Science and Engineering
+- 👀 I’m interested in App Developing.
+- 🌱 I’m currently pursuing B.TECH in Computer Science and Engineering from LPU.
 - 📫 How to reach me gmail id - ashishthakur2674@gmail.com
