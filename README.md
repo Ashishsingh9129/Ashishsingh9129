@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Ashishsingh9129
-- 👀 I’m interested in App Developing.
+- 👀 I’m  a MERN Stack Developer
 - 🌱 I’m currently pursuing B.TECH in Computer Science and Engineering from LPU.
 - 📫 How to reach me gmail id - ashishthakur2674@gmail.com
